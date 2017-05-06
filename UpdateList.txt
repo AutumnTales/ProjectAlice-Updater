@@ -1,1 +1,3 @@
-
+<Version: 0.22a>
+/data/testupd/test.wav http://mutescarlet.esy.es/SoundTest/maidenscapriccio.wav
+<End of Version>
