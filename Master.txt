@@ -1,3 +1,12 @@
-<Version: 1.01>
-/data/test.wav http://mutescarlet.esy.es/SoundTest/maidenscapriccio.wav
-<End of Version>
+<Version: 1.02>
+/data/Actors.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Actors.json
+/data/Animations.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Animations.json
+/data/Armors.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Armors.json
+/data/Classes.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Classes.json
+/data/Enemies.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Enemies.json
+/data/Map001.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Map001.json
+/data/Map002.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Map002.jsob
+/data/Tilesets.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Tilesets.json
+/data/Troops.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Troops.json
+/js/plugins/ http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/js/plugins/SRD_PreloaderCore.js
+<End Of Version>
