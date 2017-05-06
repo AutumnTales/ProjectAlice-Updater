@@ -8,5 +8,4 @@
 /data/Map002.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Map002.jsob
 /data/Tilesets.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Tilesets.json
 /data/Troops.json http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/data/Troops.json
-/js/plugins/ http://mutescarlet.esy.es/Gameupd/Games/DOLLSNBLADE/js/plugins/SRD_PreloaderCore.js
 <End Of Version>
